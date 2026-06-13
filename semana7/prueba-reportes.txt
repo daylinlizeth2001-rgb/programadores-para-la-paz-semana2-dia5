@@ -1,0 +1,7 @@
+Cuando abrimos la ruta GET /reportes podemos ver los reportes que han sido registrados en el sistema.
+
+Al principio no aparece información porque todavía no se ha enviado ningún reporte.
+
+Cuando una persona manda datos mediante POST, esos datos se guardan temporalmente en una lista llamada array.
+
+Después podemos consultar esa lista usando GET y revisar los reportes mientras el servidor sigue encendido.
