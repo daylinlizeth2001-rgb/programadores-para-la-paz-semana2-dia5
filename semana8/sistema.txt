@@ -1,0 +1,5 @@
+El comando uname -a permite consultar detalles del sistema, como la versión del sistema operativo Linux y algunas características del equipo donde se está trabajando.
+
+Por su parte, el comando whoami sirve para identificar el usuario que tiene la sesión activa en ese momento.
+
+Ambos comandos son importantes porque ayudan a verificar información básica del servidor y a confirmar los permisos y la identidad del usuario que está ejecutando las tareas.

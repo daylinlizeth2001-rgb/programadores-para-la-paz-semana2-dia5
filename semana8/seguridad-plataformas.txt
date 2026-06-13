@@ -1,0 +1,5 @@
+Respetar la privacidad de los usuarios y evitar divulgar su información personal.
+Utilizar claves de acceso fuertes y difíciles de adivinar.
+Mantener protegidos los datos de inicio de sesión y las credenciales de acceso.
+Garantizar que las comunicaciones y conexiones se realicen de forma segura.
+Establecer permisos adecuados para que solo las personas autorizadas puedan consultar la información.
