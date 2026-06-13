@@ -1,0 +1,5 @@
+Al ejecutar el comando **node server.js**, el servidor se pone en funcionamiento. En la terminal aparece un mensaje indicando que está activo y escuchando en el puerto 3000.
+
+Al ingresar a la ruta principal, se muestra un mensaje que confirma que el servidor está trabajando correctamente. Además, la ruta **/estado** permite consultar información sobre el funcionamiento del servicio.
+
+Esto ayuda a verificar que la aplicación está operando de forma adecuada y que puede recibir y responder solicitudes de los usuarios.

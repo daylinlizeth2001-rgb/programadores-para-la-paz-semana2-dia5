@@ -1,0 +1,11 @@
+Pregunta 1:
+Respuesta B. Es un equipo o sistema encargado de ejecutar aplicaciones y atender las solicitudes realizadas por los usuarios.
+
+Pregunta 2:
+Respuesta:B. Significa que el servidor se encuentra disponible y preparado para recibir peticiones en una dirección determinada.
+
+Pregunta 3:
+Respuesta:B. Su función es supervisar el funcionamiento de los procesos y almacenar información sobre posibles fallos o errores.
+
+Pregunta 4:
+Respuesta:A. Son registros donde se almacena información relacionada con las actividades y eventos que ocurren dentro del sistema.

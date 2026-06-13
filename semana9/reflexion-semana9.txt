@@ -1,0 +1,5 @@
+Considero que una plataforma comunitaria debe contar con un buen servidor para que pueda atender a todos los usuarios sin presentar fallas. Cuando el servicio funciona de manera adecuada, las personas pueden acceder a la información de forma más rápida y realizar sus actividades sin inconvenientes.
+
+Además, es fundamental proteger los datos que se comparten dentro de la plataforma, ya que esto ayuda a cuidar la privacidad de los usuarios. También es importante llevar un control de lo que ocurre en el sistema mediante registros, porque estos permiten identificar problemas y corregirlos a tiempo.
+
+En mi opinión, una plataforma que funciona de manera estable y segura genera mayor confianza en la comunidad y facilita la participación de las personas. Por esta razón, es necesario mantener una buena administración de los servicios y garantizar su correcto funcionamiento.
