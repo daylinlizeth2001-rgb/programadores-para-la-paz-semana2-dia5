@@ -1,0 +1,13 @@
+Las dos actividades que haría primero serían:
+
+1. Crear la opción para que las personas puedan enviar un reporte sobre algún problema.
+
+2. Configurar una notificación para que el responsable reciba un aviso cada vez que llegue un nuevo reporte.
+
+Considero que estas tareas son las más importantes porque primero es necesario que las personas puedan reportar una situación y, después, que alguien sea informado para revisarla y darle seguimiento.
+
+Para mí una tarea está terminada cuando:
+
+- Cumple con lo que se esperaba.
+- Se revisó y funciona sin inconvenientes.
+- Quedó guardada correctamente en GitHub para tener el registro del trabajo realizado.

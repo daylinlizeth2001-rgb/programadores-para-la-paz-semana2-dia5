@@ -1,0 +1,11 @@
+Evento que inicia la automatización:
+
+El flujo comienza cuando una persona envía un nuevo reporte desde la plataforma.
+
+Mensaje que llegaría a Telegram:
+
+"Hay un nuevo reporte registrado. Por favor, revisa la plataforma para darle seguimiento."
+
+Información que no debe compartirse:
+
+Por seguridad, no se deben enviar datos personales como nombres completos, números de documento, direcciones, teléfonos, contraseñas ni cualquier otra información privada de los usuarios.

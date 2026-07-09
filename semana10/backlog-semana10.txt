@@ -1,0 +1,7 @@
+1. Como ciudadano quiero enviar un reporte sobre un problema en mi comunidad para que las autoridades puedan conocer la situación.
+
+2. Como líder comunitario quiero recibir una notificación en Telegram cuando llegue un nuevo reporte para darle seguimiento.
+
+3. Como integrante del equipo quiero consultar todos los reportes registrados para revisar cuáles ya fueron atendidos.
+
+4Como administrador quiero organizar los reportes por prioridad para resolver primero los casos más importantes.
