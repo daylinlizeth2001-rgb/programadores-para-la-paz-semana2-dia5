@@ -1,0 +1,24 @@
+Entidad: Actividad
+
+Campos principales:
+- id
+- titulo
+- lugar
+- fecha
+- descripcion
+
+Propósito:
+Almacenar la información de las actividades comunitarias para que los ciudadanos conozcan cuándo y dónde se realizarán.
+
+
+Entidad: Inscripción
+
+Campos principales:
+- id
+- actividad_id
+- participante
+- fecha_inscripcion
+- estado
+
+Propósito:
+Guardar el registro de las personas que desean participar en una actividad y facilitar el seguimiento de las inscripciones.
