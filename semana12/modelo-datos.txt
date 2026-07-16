@@ -1,0 +1,17 @@
+Entidad: Petición
+
+Código: Número que identifica cada petición.
+Nombre de la petición: Título con el que se registra.
+Detalle: Explicación de la situación o necesidad que se quiere dar a conocer.
+Fecha de creación: Día en que la petición fue registrada.
+
+Esta entidad permite almacenar toda la información relacionada con cada petición que crean los ciudadanos.
+
+Entidad: Participante
+
+Código: Número que identifica cada registro de apoyo.
+Petición relacionada: Indica a cuál petición pertenece el apoyo.
+Persona que apoya: Nombre de quien decidió respaldar la petición.
+Fecha de apoyo: Día en que la persona realizó el registro.
+
+Esta entidad se utiliza para llevar el control de las personas que apoyan cada petición y conocer cuántos respaldos ha recibido.

@@ -1,0 +1,5 @@
+1. Una persona ingresa a la plataforma y crea una petición sobre una necesidad de la comunidad.
+2. El sistema guarda toda la información para que no se pierda y pueda ser consultada después.
+3. Los demás ciudadanos pueden revisar la petición y decidir si desean brindar su apoyo.
+4. La plataforma lleva el control del número de personas que han apoyado la iniciativa.
+5. Finalmente, el sistema elabora un documento en formato PDF con la información de la petición para que pueda presentarse ante la entidad correspondiente.

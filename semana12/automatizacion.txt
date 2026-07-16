@@ -1,0 +1,5 @@
+Evento: Un ciudadano completa el registro de una petición.
+
+Mensaje: El sistema envía una notificación indicando que se ha agregado una nueva petición y que ya está disponible para recibir apoyos.
+
+Información que no debe compartirse: Información confidencial de las personas, como documentos de identidad, números de contacto, direcciones, contraseñas o cualquier otro dato que afecte su privacidad.
